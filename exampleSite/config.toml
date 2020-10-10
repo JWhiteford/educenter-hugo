@@ -45,44 +45,59 @@ link = "plugins/google-map/gmap.js"
 
 # main menu
 [[menu.main]]
+weight = 1
 name = "About"
 URL = "about"
-weight = 1
 
 [[menu.main]]
-name = "products"
-URL = "products"
 weight = 2
-
-[[menu.main]]
-weight = 3
-name = "Pages"
+name = "products"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  URL = "teacher"
+  parent = "products"
+  name = "products_available"
+  URL = "available-products"
 
   [[menu.main]]
-  parent = "Pages"
-  name = "notice"
-  URL = "notice"
+  parent = "products"
+  name = "new_used"
+  URL = "new-and-used-equipment"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "event"
-  URL = "event"
+[[menu.main]]
+weight = 3
+name = "parts_and_services"
+URL = "parts-and-services"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  URL = "scholarship"
+# [[menu.main]]
+# weight = 4
+# name = "Pages"
+# hasChildren = true
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "research"
-  URL = "research"
+#   [[menu.main]]
+#   parent = "Pages"
+#   name = "teacher"
+#   URL = "teacher"
+
+#   [[menu.main]]
+#   parent = "Pages"
+#   name = "notice"
+#   URL = "notice"
+
+#   [[menu.main]]
+#   parent = "Pages"
+#   name = "event"
+#   URL = "event"
+
+#   [[menu.main]]
+#   parent = "Pages"
+#   name = "scholarship"
+#   URL = "scholarship"
+
+#   [[menu.main]]
+#   parent = "Pages"
+#   name = "research"
+#   URL = "research"
 
 # [[menu.main]]
 # name = "blog"
@@ -92,18 +107,18 @@ hasChildren = true
 [[menu.main]]
 name = "contact_info"
 URL = "contact"
-weight = 4
+weight = 5
 
 
 # footer menu
 
-[[menu.footer]]
-name = "teacher"
-URL = "teacher"
+# [[menu.footer]]
+# name = "teacher"
+# URL = "teacher"
 
 [[menu.footer]]
-name = "notice"
-URL = "notice"
+name = "Tremcar"
+URL = "tremcar"
 
 [[menu.footer]]
 name = "event"

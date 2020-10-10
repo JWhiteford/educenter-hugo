@@ -11,13 +11,22 @@
   translation: Contact
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Everything You Need, All In One Place
 
 - id: subscribe
   translation: Subscribe
 
 - id: products
   translation: Products
+
+- id: products_available
+  translation: Available Products
+
+- id: parts_and_services
+  translation: Parts & Services
+
+- id: new_used
+  translation: New & Used Equipment
 
 - id: contact_us
   translation: Contact Us
@@ -88,11 +97,11 @@
 - id: links
   translation: links
 
-- id: courses
-  translation: Courses
+# - id: courses
+#   translation: Courses
 
-- id: new_notice
-  translation: new notice
+# # - id: new_notice
+# #   translation: new notice
 
 - id: tollfree
   translation: toll free

@@ -1,3 +1,7 @@
+cd into exampleSite
+hugo server --themesDir ../..
+
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with educenter hugo theme by following this easy steps (No Coding Required)
 
@@ -76,10 +80,10 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 
 ## Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.  
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 
-### Donate Us (Author) 
+### Donate Us (Author)
 This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated . Thank you!
 
 * **[Donate $10](https://www.paypal.me/themefisher/10USD)**: Thank's for creating this project, here's a tea (or some juice) for you!

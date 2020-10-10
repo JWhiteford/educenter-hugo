@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "780-984-4004"
-        link : "780-984-4004"
+        link : "tel:+780-984-4004"
 
     # slider item loop
     - title : "Authorized Tremcar Dealer"
