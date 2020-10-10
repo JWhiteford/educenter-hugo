@@ -11,7 +11,7 @@ image: "images/courses/course-3.jpg"
 # taxonomy
 category: "Artificial Intelligence"
 # teacher
-teacher: "Alex Rook"
+teacher: "Person 1"
 # duration
 duration : "06 Month"
 # weekly

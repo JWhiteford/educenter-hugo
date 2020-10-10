@@ -208,12 +208,16 @@
 }
 
 .bg-footer {
-  background-color: #182b45;
+  background-color: $secondary-color;
 }
 
 .logo-footer {
   margin-top: -20px;
   display: inline-block;
+
+  img {
+    max-width: 200px;
+  }
 }
 
 .footer {

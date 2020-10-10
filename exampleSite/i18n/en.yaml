@@ -8,13 +8,16 @@
   translation: send message
 
 - id: contact_info
-  translation: Contact Info
+  translation: Contact
 
 - id: subscribe_newsletter
   translation: Subscribe Newsletter
 
 - id: subscribe
   translation: Subscribe
+
+- id: products
+  translation: Products
 
 - id: contact_us
   translation: Contact Us
@@ -75,7 +78,7 @@
 
 - id: join
   translation: Join
-  
+
 - id: enter_email
   translation: Enter your email…
 
@@ -91,6 +94,9 @@
 - id: new_notice
   translation: new notice
 
+- id: tollfree
+  translation: toll free
+
 - id: call
   translation: call
 
@@ -103,8 +109,8 @@
 - id: interest
   translation: SUMMARY OF ACTIVITIES/INTERESTS
 
-- id: our_teachers
-  translation: Our Teachers
+- id: our_team
+  translation: Our Team
 
 - id: download
   translation: Download

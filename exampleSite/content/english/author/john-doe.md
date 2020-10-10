@@ -1,5 +1,5 @@
 ---
-title: "John doe"
+title: "Inline Industries Inc."
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description

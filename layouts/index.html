@@ -46,6 +46,9 @@
             <i class="{{ .icon }} mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">{{ .name | markdownify }}</h3>
             <p>{{ .content | markdownify }}</p>
+            {{ if $data.homepage.link }}
+            <a href="http://localhost:1313/about" class="btn btn-outline-primary">{{ .link | markdownify }}</a>
+            {{ end }}
           </div>
           {{ end }}
         </div>

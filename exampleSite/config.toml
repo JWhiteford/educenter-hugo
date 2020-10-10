@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+title = "Inline Industries Inc."
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -50,8 +50,8 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "course"
-URL = "course"
+name = "products"
+URL = "products"
 weight = 2
 
 [[menu.main]]
@@ -83,16 +83,16 @@ hasChildren = true
   parent = "Pages"
   name = "research"
   URL = "research"
-  
+
+# [[menu.main]]
+# name = "blog"
+# URL = "blog"
+# weight = 4
+
 [[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 4
-  
-[[menu.main]]
-name = "Contact"
+name = "contact_info"
 URL = "contact"
-weight = 5
+weight = 4
 
 
 # footer menu
@@ -120,16 +120,17 @@ URL = "research"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/inline-industries-logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "We specialize in all types of transportation vessels. This includes Food Grade, Milk, Sugar, Juice, Dangerous Goods, Chemical, Acid, Vacuum, Septic, Pneumatic, and Dry Bulk."
+author = "Inline Industires Inc."
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "6727 68 Ave Edmonton, Alberta. T6E 3E3"
+tollfree = "1-866-999-3931"
+mobile = "780-463-3931"
+email = "email@email.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xyybkvrn" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
@@ -138,14 +139,14 @@ top_header = true
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+preloader = "images/preloader.svg" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "" # replace this url with yours
+mailchimp_form_name = "" # replace this code with yours
 
 # google map
 [params.map]
@@ -159,31 +160,32 @@ map_marker = "images/marker.png" # marker size 37*55 px
 [params.cookies]
 enable = true
 expire_days = 2
-  
+
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+# themify icon : https://themify.me/themify-icons
+# [[params.social]]
+# title = "facebook"
+# icon = "ti-facebook"
+# link = "#"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "twitter"
+# icon = "ti-twitter-alt"
+# link = "#"
 
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "instagram"
+# icon = "ti-instagram"
+# link = "#"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "github"
+# icon = "ti-github"
+# link = "#"
 
 [[params.social]]
 title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+icon = "ti-linkedin"
 link = "#"
 
 
@@ -195,7 +197,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 Inline Industries Inc."
 
 
 ################################### French language #####################################
@@ -206,4 +208,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 Inline Industries Inc."

@@ -1,32 +1,36 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
+title: "TODO- Write article about Tremcar Dealer"
+date: 2020-10-09T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/blogs-background.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/blog/tremcar-dealer.jpg"
 # post author
-author: "John Doe"
+author: "Inline Industries Ltd."
 # taxonomy
-categories: ["Automation System"]
-tags: ["Advice", "Automation"]
+categories: ["Products"]
+tags: ["Dealer", "Tremcar"]
 # type
 type: "post"
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+### This is a sample posting
+
+TODO- We should have 3 or 4 of these written to look like the website is maintained and to give some more interest/trafic to the site.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+#### About Tremcar
+##### A company that builds according to what your carry
+Tremcar is a manufacturer of tank trailers and tank trucks for the North American market. Its production output includes stainless steel and aluminum tanks. Tremcar is also specialized in manufacturing vacuum tanks dedicated to cleaning the environment: sanitary sewer, hydro excavation, vacuum sump and other specialized tanks. Custom made is Tremcar’s expertise: tell us what you are carrying and we will build the right tank for your needs! In addition to the United States, where it has production plants, Tremcar International exports to Latin America, the Caribbean all the way to Argentina.
+
 
 > On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+#### History
+##### Family owned business
+Tremcar was founded in 1962 by the Tougas brothers, Aldé and Léo, under the name of A & L Tougas Ltd. The two brothers were welders by trade. The business specialized in the fabrication of stainless steel tankers trailers dedicated to the transportion of milk between the farms and the dairies of Québec. During the next few decades…

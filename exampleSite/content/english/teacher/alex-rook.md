@@ -1,12 +1,12 @@
 ---
-title: "Alex Rook"
+title: "Person 1"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
-image: "images/teachers/teacher-2.jpg"
+image: "images/team/batman.png"
 # course
 course: "Vlogging"
 # biography

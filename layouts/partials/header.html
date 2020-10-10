@@ -7,9 +7,13 @@
       <div class="row no-gutters align-items-center">
         <div class="col-lg-4 text-center text-lg-left">
           <ul class="list-inline">
-            {{ range site.Params.social }}
-            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-            {{ end }}
+            <li class="list-inline-item mx-0">
+              <a class="text-color mr-3" href="tel:{{ site.Params.tollfree }}"><strong>{{ i18n "tollfree" | upper }} : </strong> {{ site.Params.tollfree }}</a>
+            </li>
+            <!-- {{ range site.Params.social }}
+            <li class="list-inline-item mx-0">
+              <a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+            {{ end }} -->
           </ul>
         </div>
         <div class="col-lg-8 text-center text-lg-right">
@@ -61,7 +65,7 @@
           </ul>
 
           <!-- Language List -->
-          {{ if .IsTranslated }}
+          <!-- {{ if .IsTranslated }}
           <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
             {{ $siteLanguages := site.Languages}}
             {{ $pageLang := .Page.Lang}}
@@ -80,7 +84,7 @@
             {{ end }}
             {{ end }}
           </select>
-          {{ end }}
+          {{ end }} -->
         </div>
       </nav>
     </div>

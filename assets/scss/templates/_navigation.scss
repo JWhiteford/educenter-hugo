@@ -35,6 +35,11 @@
   }
 }
 
+.navbar-brand {
+  img {
+    max-width: 200px;
+  }
+}
 .nav-bg {
   background-color: $secondary-color;
 }
