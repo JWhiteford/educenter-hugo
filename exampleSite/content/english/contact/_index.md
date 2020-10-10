@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 ---
 
 
-### We're Here To Help For All Your Needs
+### Helping With All Your Needs
 
 Our hours of operation is as follows:
 
