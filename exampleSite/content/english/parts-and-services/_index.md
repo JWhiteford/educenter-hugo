@@ -2,20 +2,17 @@
 title: "Parts & Services"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/parts-background.jpg"
 # image
-image: "images/about/about-page.jpg"
+image: "images/service/service-call.jpg"
 # meta description
-description : "test Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "A Dedicated Parts & Service Team For Every Need"
 ---
 
 ## Parts & Services
 
-**_Our campuses are living laboratories for sustainability._**
+**_Our knowledgeable staff is here to answer your parts needs_**
 
-testLorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliquauis aute irure dolor.
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor, sit
-amet consectetur adipisicing elit. Quas cum ut ab nesciunt distinctio maxime expedita fugit laborum? Aliquid,
-quia.
+The Parts Department at Inline Industries maintains a large variety of inventory of genuine parts.
+
+We can also special order a large variety of different parts for trailers & components.
