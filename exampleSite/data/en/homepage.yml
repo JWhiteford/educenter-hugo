@@ -96,6 +96,7 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/about-truck.jpg"
   title : "Get A Quote"
+  link: "this is a test"
   content : "Would you like to get a quote? Simply send us an email or give us a call and we'll help you out!
 
   TODO- add link to contact form"
