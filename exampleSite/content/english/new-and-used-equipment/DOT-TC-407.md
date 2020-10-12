@@ -9,7 +9,9 @@ image: "images/equipment/DOT-TC-407.jpg"
 description : "Sour Sealed SS 22 Cube Truckmount 2 Compartment 16 Cube Front & 6 Cube rear"
 ---
 
-* Bullet item 1
-* Bullet item 2
-* Bullet item 3
-* Bullet item 4
+Need content for each of the tanks
+Here's a bullet list:
+* Item 1
+* Item 2
+* Item 3
+* Item 4
