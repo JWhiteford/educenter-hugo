@@ -8,7 +8,7 @@
         <div class="bg-white p-5">
           <h2 class="section-title">{{ .title | markdownify }}</h2>
           <p>{{ .content | markdownify }}</p>
-          <p>{{ .link | markdownify }}</p>
+          <a href="{{ .link }}" class="btn btn-primary">{{ .link_text }}</a>
         </div>
       </div>
       <div class="col-lg-6 col-sm-4 position-relative success-video">
