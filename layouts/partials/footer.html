@@ -106,10 +106,10 @@
 </footer>
 <!-- /footer -->
 
-{{ "<!-- Google Map API -->" | safeHTML }}
-{{ with site.Params.map.gmap_api }}
+
+<!-- {{ with site.Params.map.gmap_api }}
 <script src="{{ . | safeURL }}"></script>
-{{ end }}
+{{ end }} -->
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range site.Params.plugins.js}}

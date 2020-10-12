@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<!-- scholarship -->
+<!-- parts_and_services -->
 <section class="section">
   <div class="container">
     <div class="row mb-5">
@@ -12,15 +12,15 @@
       </div>
     </div>
     <div class="row">
-      <!-- scholarship item -->
+      <!-- parts_and_services item -->
       {{ range .Data.Pages }}
       <div class="col-lg-4 col-sm-6 mb-4">
-        {{ .Render "scholarship" }}
+        {{ .Render "parts_and_services" }}
       </div>
       {{ end }}
     </div>
   </div>
 </section>
-<!-- /scholarship -->
+<!-- /parts_and_services -->
 
 {{ end }}

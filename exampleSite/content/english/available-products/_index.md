@@ -2,7 +2,7 @@
 title: "Products"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/equipment-background.jpg"
 # image
 image: "images/about/about-page.jpg"
 # meta description
