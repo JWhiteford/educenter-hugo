@@ -1,13 +1,15 @@
 ---
-title: "DOT/TC 407"
+title: "2019 Tremcar Dry Bulk"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/products-background.jpg"
 # scholarship image
-image: "images/equipment/DOT-TC-407.jpg"
+image: "images/equipment/Tremcar-dry-bulk.jpg"
 # meta description
-description : "Sour Sealed SS 22 Cube Truckmount 2 Compartment 16 Cube Front & 6 Cube rear"
+description : "2019 Tremcar Dry Bulk 1200cuft Pneumatic Tridem Trailer"
 ---
+
+2019 Tremcar Dry Bulk 1200cuft Pneumatic Tridem Trailer
 
 * Bullet item 1
 * Bullet item 2
