@@ -50,12 +50,18 @@
     <div class="row">
       <div class="col-12">
         <h2 class="section-title">{{ i18n "our_team" }}</h2>
-        <p>This secion is optional, but it could include the sales team so people could get in touch easy.</p>
       </div>
     </div>
+
     <div class="row justify-content-center">
       <!-- team -->
-      {{ range first 3 (where site.RegularPages "Type" "team")}}
+      {{ range last 2 (where site.RegularPages "Type" "sales")}}
+      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+        {{ .Render "team" }}
+      </div>
+      {{ end }}
+
+      {{ range first 4 (where site.RegularPages "Type" "team")}}
       <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
         {{ .Render "team" }}
       </div>
