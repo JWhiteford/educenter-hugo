@@ -24,4 +24,4 @@ Our hours of operation is as follows:
 
 24 Hour message Centre for Parts, Repairs, & Sales
 
-**TODO-** This form is using formspree and allows 50 email submissions monthly on the free plan. If there are currently more emails than that, I will look into a different service or we'll need to setup a paid account.
+<!-- **TODO-** This form is using formspree and allows 50 email submissions monthly on the free plan. If there are currently more emails than that, I will look into a different service or we'll need to setup a paid account. -->

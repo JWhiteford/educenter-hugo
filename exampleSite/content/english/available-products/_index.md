@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/equipment-background.jpg"
 # image
 image: "images/about/about-page.jpg"
 # meta description
-description : "TODO- Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "TODO- d."
 ---
 
 ## PRODUCTS

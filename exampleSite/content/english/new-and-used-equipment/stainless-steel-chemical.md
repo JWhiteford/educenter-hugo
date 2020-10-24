@@ -1,15 +1,15 @@
 ---
-title: "Stainless Steel Chemical"
+title: "TC 407 SS / Alum Sour Sealed / Crude oil Tri Axle Trailers"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/products-background.jpg"
 # scholarship image
 image: "images/equipment/stainless-steel-chemical.jpg"
 # meta description
-description : "Stainless Steel Chemical"
+description : "TC 407 SS / Alum Sour Sealed / Crude oil Tri Axle Trailers"
 ---
 
-Stainless Steel Chemical
+TC 407 SS / Alum Sour Sealed / Crude oil Tri Axle Trailers
 
 ## TC/407
 

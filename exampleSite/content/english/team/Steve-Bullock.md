@@ -1,30 +1,31 @@
 ---
-title: "Peter Parker"
+title: "Steve Bullock"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/team-background.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Steve Bullock, Operations Manager."
 # teacher portrait
-image: "images/team/spiderman.jpg"
+# image: "images/team/spiderman.jpg"
 # course
 course: ""
+position: "Operations Manager"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+# bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
 interest: ["Webslinging","Science","Photography"]
 # contact info
 contact:
   # contact item loop
    # icon pack : https://themify.me/themify-icons
-  - name : "spiderman@email.com"
+  - name : "steve@inlineindustries.ca"
     icon : "ti-email"
-    link : "mailto:spiderman@email.com"
+    link : "mailto:steve@inlineindustries.ca"
 
   # contact item loop
-  - name : "780-999-9999"
+  - name : "780-463-3931"
     icon : "ti-mobile"
-    link : "tel:+120345876"
+    link : "tel:+780-463-3931"
 
   # contact item loop
   # - name : "Clark Malik"
@@ -52,7 +53,7 @@ contact:
   #   link : "#"
 
 # type
-type: "team"
+type: "sales"
 ---
 
 ### About Me

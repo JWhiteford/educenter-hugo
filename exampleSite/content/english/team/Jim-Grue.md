@@ -1,30 +1,31 @@
 ---
-title: "Bruce Wayne"
+title: "Jim Grue"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/team-background.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Jim Grue, Shop Foreman."
 # teacher portrait
-image: "images/team/batman.png"
+# image: "images/team/spiderman.jpg"
 # course
 course: ""
+position: "Shop Foreman"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+# bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
-interest: ["Spelunking","The Color Black","Crime Fighting"]
+interest: ["Webslinging","Science","Photography"]
 # contact info
 contact:
   # contact item loop
    # icon pack : https://themify.me/themify-icons
-  - name : "brucewayne@email.com"
+  - name : "jim@inlineindustries.ca"
     icon : "ti-email"
-    link : "mailto:brucewayne@email.com"
+    link : "mailto:jim@inlineindustries.ca"
 
   # contact item loop
-  - name : "780-999-9999"
-    icon : "ti-mobile"
-    link : "tel:+120345876"
+  # - name : "780-999-9999"
+  #   icon : "ti-mobile"
+  #   link : "tel:+120345876"
 
   # contact item loop
   # - name : "Clark Malik"

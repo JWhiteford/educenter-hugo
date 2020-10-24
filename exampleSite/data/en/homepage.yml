@@ -5,18 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your Source For High Quality Truckmount Tanks & Trailers."
-      content : "For Inquiries Contact Our Salesman Greg Chartrand"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "780-984-4004"
-        link : "tel:+780-984-4004"
-
-    # slider item loop
-    - title : "Authorized Tremcar Dealer"
-      content : "TODO- we need to write some text about how this is special."
+      content : "For Inquiries Contact Our Sales Team"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -26,15 +15,26 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "For Inquiries Contact Our Salesman Greg Chartrand"
-      content : "780-984-4004 TODO- need to adjust the buttons to be phone links from a mobile device"
+    - title : "Authorized Tremcar Dealer"
+      content : "Tremcar is one of the 4 largest tank trailer manufacturers in North America, serving nearly 5,000 customers."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Call Greg"
+        label : "Get A Quote"
         link : "contact"
+
+    # slider item loop
+    # - title : "For Inquiries Contact Our Salesman Greg Chartrand"
+    #   content : "780-984-4004 TODO- need to adjust the buttons to be phone links from a mobile device"
+    #   animation_in : "left"
+    #   animation_out : "right"
+    #   # available animation : left, right, up, down
+    #   button:
+    #     enable : true
+    #     label : "Call Greg"
+    #     link : "contact"
 
 
 
@@ -64,10 +64,7 @@ about:
   enable : true
   title : "Our Certificates"
   image : "images/certificates.png"
-  content : "TODO- write content about the certificates and extra fluff. Could link to entire page if needed. Images are low resolution, could use better quality ones.
-
-
-  Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "We have multiple certificates and years of experience."
   button:
     enable : false
     label : "Learn more"
@@ -137,6 +134,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
+  enable : false
   title : "Latest News"
   # blog item comes from "content/**/blog" folder.

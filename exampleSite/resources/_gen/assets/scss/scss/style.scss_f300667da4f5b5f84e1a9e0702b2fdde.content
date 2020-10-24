@@ -29,6 +29,11 @@ p, .paragraph {
   line-height: 1.9;
   font-family: "Poppins", sans-serif; }
 
+li {
+  font-weight: 400;
+  line-height: 1.9;
+  font-size: 15px; }
+
 h1, h2, h3, h4, h5, h6 {
   color: #0a0a18;
   font-family: "futura-bold";
@@ -157,11 +162,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center; }
-
-ol,
-ul {
-  list-style-type: none;
-  margin: 0px; }
 
 img {
   vertical-align: middle;
