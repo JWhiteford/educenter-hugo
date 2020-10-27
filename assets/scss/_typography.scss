@@ -76,11 +76,12 @@ h6, .h6{
     font-size: 14px;
   }
 }
-ul.list-inline {
+
+.newsletter ul.list-inline {
   display: flex;
 }
 
-.list-inline li {
+.newsletter .list-inline li {
   padding: 1rem;
   font-weight: bold;
 }

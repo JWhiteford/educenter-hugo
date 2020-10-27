@@ -135,7 +135,7 @@ URL = "tremcar"
 
 #################### default parameters ################################
 [params]
-logo = "images/Inline-Industries-logo-outline.png"
+logo = "images/Inline-Industries-Ltd-logo.png"
 # Meta data
 description = "We specialize in all types of transportation vessels. This includes Food Grade, Milk, Sugar, Juice, Dangerous Goods, Chemical, Acid, Vacuum, Septic, Pneumatic, and Dry Bulk."
 author = "Inline Industires Inc."
