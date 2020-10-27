@@ -22,10 +22,12 @@ contact:
     icon : "ti-email"
     link : "mailto:bernie@inlineindustries.ca"
 
+
+
   # contact item loop
-  # - name : "780-999-9999"
-  #   icon : "ti-mobile"
-  #   link : "tel:+120345876"
+  - name : "780-977-7652"
+    icon : "ti-mobile"
+    link : "tel:+1-780-977-7652"
 
   # contact item loop
   # - name : "Clark Malik"

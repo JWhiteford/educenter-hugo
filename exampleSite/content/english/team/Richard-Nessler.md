@@ -25,7 +25,7 @@ contact:
   # contact item loop
   - name : "780-463-3931"
     icon : "ti-mobile"
-    link : "tel:+780-463-3931"
+    link : "tel:+1-780-463-3931"
 
   # contact item loop
   # - name : "Clark Malik"
