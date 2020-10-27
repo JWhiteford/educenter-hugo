@@ -19,3 +19,6 @@ TC 407 SS / Alum Sour Sealed / Crude oil Tri Axle Trailers
 * Tandem Axle
 * Tri-Axle
 * Super B's
+
+![](/images/equipment/SS-chemical-01.jpg)
+![](/images/equipment/SS-chemical-02.jpg)
