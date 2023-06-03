@@ -25,6 +25,9 @@
 - id: parts_and_services
   translation: Parts & Services
 
+- id: poop_pulverizer
+  translation: Poop Pulverizer
+
 - id: new_used
   translation: New & Used Equipment
 

@@ -55,14 +55,22 @@ name = "products"
 hasChildren = true
 
   [[menu.main]]
+  weight = 1
   parent = "products"
   name = "products_available"
   URL = "available-products"
 
   [[menu.main]]
+  weight = 2
   parent = "products"
   name = "new_used"
   URL = "new-and-used-equipment"
+
+  [[menu.main]]
+  weight = 3
+  parent = "products"
+  name = "poop_pulverizer"
+  URL = "poop-pulverizer"
 
 [[menu.main]]
 weight = 3
@@ -138,7 +146,7 @@ URL = "tremcar"
 logo = "images/Inline-Industries-Ltd-logo.png"
 # Meta data
 description = "We specialize in all types of transportation vessels. This includes Food Grade, Milk, Sugar, Juice, Dangerous Goods, Chemical, Acid, Vacuum, Septic, Pneumatic, and Dry Bulk."
-author = "Inline Industires Inc."
+author = "Inline Industries Inc."
 # contact info
 address = "6727 68 Ave Edmonton, Alberta. T6E 3E3"
 tollfree = "1-866-999-3931"
@@ -173,7 +181,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 ############################# social site ########################
@@ -198,11 +206,10 @@ expire_days = 2
 # icon = "ti-github"
 # link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin"
-link = "#"
-
+# [[params.social]]
+# title = "linkedin"
+# icon = "ti-linkedin"
+# link = "#"
 
 ################################### English language #####################################
 [Languages.en]
